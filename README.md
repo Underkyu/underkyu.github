@@ -31,11 +31,11 @@
 <body>
 <center><h1>Formulario produto para pw</h1></center>
 <h3>Produto</h3>
-<input type= "text" id= "inp"></input><br> 
+<input type= "text" id= "inp"><br> 
 <h3>Preço</h3>
-<input type= "number" id= "inp2"></input><br> 
+<input type= "number" id= "inp2"><br> 
 <h3>Quantidade</h3>
-<input type= "number" id= "inp3"></input><br> 
+<input type= "number" id= "inp3"><br> 
 <center> <button type="button" id="buto" onclick="preco()"> Ok </button> </center>
 </body>
 </html>
