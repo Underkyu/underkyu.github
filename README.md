@@ -29,7 +29,7 @@
         </script>
 </head>
 <body>
-<center><h1>Formulario produto</h1></center>
+<center><h1>Formulario produto para pw</h1></center>
 <h3>Produto</h3>
 <input type= "text" id= "inp"></input><br> 
 <h3>Preço</h3>
